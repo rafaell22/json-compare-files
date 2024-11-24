@@ -1,0 +1,29 @@
+{
+  "name": "json-compare-files",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaell22/json-compare-files.git"
+  },
+  "keywords": [
+    "json",
+    "compare",
+    "file"
+  ],
+  "author": "rafaell22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaell22/json-compare-files/issues"
+  },
+  "homepage": "https://github.com/rafaell22/json-compare-files#readme",
+  "dependencies": {
+    "deep-equal": "^2.2.3",
+    "file-handling": "github:rafaell22/file-handling"
+  }
+}
